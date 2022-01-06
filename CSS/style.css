@@ -1,0 +1,24 @@
+nav{
+    margin: 0px;
+    padding: 0px;
+    z-index: 99;
+}
+
+#myCarousel{
+    position: relative;
+    top: -90px;
+}
+
+.rDiv{
+    width: 100%;
+    height: 150px;
+}
+
+.rDiv div{
+    width: 33%;
+    float: left;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
